@@ -1,6 +1,5 @@
 class: center, middle
 
-
 # 自我介绍
 
 &nbsp;
@@ -30,6 +29,5 @@ class: center, middle
 ---
 
 class: center, middle
-
 
 # 谢谢
