@@ -1,3 +1,4 @@
+class: center, middle
 
 # 自我介绍
 
@@ -26,5 +27,6 @@
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508507942090&di=82f7b2245c17a1d0e3f8ad67db5a34a2&imgtype=0&src=http%3A%2F%2Fimg.11665.com%2Fimg01_p%2Fi1%2FT1Hr6YXhRjXXawrcjX_114429.jpg" width=300 style="margin: 0px 80px">
 
 ---
+class: center, middle
 
 # 谢谢
