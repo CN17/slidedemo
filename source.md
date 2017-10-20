@@ -1,4 +1,3 @@
-class: center, middle
 
 # 自我介绍
 
