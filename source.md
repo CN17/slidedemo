@@ -11,7 +11,7 @@ class: center, middle
 
 ---
 
-## 
+## 自我介绍
 
 ### <font color="blue"> 1、 </font> 来自上海的北京大学化学与分子工程学院2017级本科生
 
@@ -20,7 +20,6 @@ class: center, middle
 请多指教
 
 ---
-
 
 ** Myself **
 
