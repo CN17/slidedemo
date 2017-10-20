@@ -1,27 +1,19 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 程诺 (1700011727@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/CN17
 
 ---
 
-## 本讲内容
+## 
 
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+### <font color="orangered"> 1、 </font>
 
 ---
 
@@ -41,7 +33,7 @@ int main()
 
 ** Ada Lovelace **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+<img src="C:\Users\25869\Desktop\社会企业家\正装照1" width=300 style="margin: 0px 80px">
 
 ---
 
